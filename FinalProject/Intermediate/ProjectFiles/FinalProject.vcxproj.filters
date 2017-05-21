@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FinalProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{247A4D99-92D6-4A1F-84C7-785C7EFFED61}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FinalProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FinalProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7F3416E0-8C9D-4BCE-9D1F-53F07800C1A0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FinalProject">
+			<UniqueIdentifier>{CB26D31A-4294-49D1-AE80-A6DB103D00DE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FinalProject\FinalProject.Build.cs">
+			<Filter>Source\FinalProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FinalProject\FinalProject.cpp">
+			<Filter>Source\FinalProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FinalProject\FinalProject.h">
+			<Filter>Source\FinalProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FinalProject\FinalProjectCharacter.cpp">
+			<Filter>Source\FinalProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FinalProject\FinalProjectCharacter.h">
+			<Filter>Source\FinalProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FinalProject\FinalProjectGameMode.cpp">
+			<Filter>Source\FinalProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FinalProject\FinalProjectGameMode.h">
+			<Filter>Source\FinalProject</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

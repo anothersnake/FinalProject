@@ -1,0 +1,124 @@
+﻿[2017.05.21-20.33.42:952][  0]Log file open, 05/21/17 14:33:42
+[2017.05.21-20.33.42:952][  0]LogInit:Display: Running engine for game: FinalProject
+[2017.05.21-20.33.42:952][  0]LogInit:Display: RandInit(-953818169) SRandInit(-953818169).
+[2017.05.21-20.33.42:952][  0]LogTaskGraph: Started task graph with 4 named threads and 5 total threads.
+[2017.05.21-20.33.42:952][  0]LogStats: Stats thread started at 0.085583
+[2017.05.21-20.33.42:952][  0]LogInit: Version: 4.9.2-2707645+++depot+UE4-Releases+4.9
+[2017.05.21-20.33.42:952][  0]LogInit: API Version: 2672455
+[2017.05.21-20.33.42:952][  0]LogInit: Compiled (64-bit): Sep 28 2015 10:25:44
+[2017.05.21-20.33.42:952][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2017.05.21-20.33.42:952][  0]LogInit: Build Configuration: Development
+[2017.05.21-20.33.42:952][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.9
+[2017.05.21-20.33.42:952][  0]LogInit: Command line: -EpicPortal 
+[2017.05.21-20.33.42:952][  0]LogInit: Base directory: C:/Program Files/Epic Games/UE_4.9/Engine/Binaries/Win64/
+[2017.05.21-20.33.42:952][  0]LogInit: Rocket: 1
+[2017.05.21-20.33.42:961][  0]LogInit: Using libcurl 7.41.0
+[2017.05.21-20.33.42:961][  0]LogInit:  - built for x86_64-pc-win32
+[2017.05.21-20.33.42:961][  0]LogInit:  - supports SSL with WinSSL
+[2017.05.21-20.33.42:961][  0]LogInit:  - other features:
+[2017.05.21-20.33.42:961][  0]LogInit:      CURL_VERSION_SSL
+[2017.05.21-20.33.42:961][  0]LogInit:      CURL_VERSION_IPV6
+[2017.05.21-20.33.42:961][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2017.05.21-20.33.42:961][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2017.05.21-20.33.42:961][  0]LogInit:      CURL_VERSION_IDN
+[2017.05.21-20.33.42:961][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2017.05.21-20.33.42:961][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2017.05.21-20.33.42:961][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2017.05.21-20.33.42:961][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2017.05.21-20.33.42:961][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2017.05.21-20.33.42:969][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2017.05.21-20.33.42:977][  0]LogInit: Object subsystem initialized
+[2017.05.21-20.33.42:981][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.21-20.33.42:981][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.05.21-20.33.42:992][  0]LogInit: Computer: DEBBIELAPTOP
+[2017.05.21-20.33.42:992][  0]LogInit: User: Jacob
+[2017.05.21-20.33.42:992][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.05.21-20.33.42:992][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.05.21-20.33.42:992][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.05.21-20.33.42:992][  0]LogMemory: Platform Memory Stats for Windows
+[2017.05.21-20.33.42:992][  0]LogMemory: Process Physical Memory: 54.38 MB used, 54.38 MB peak
+[2017.05.21-20.33.42:992][  0]LogMemory: Process Virtual Memory: 57.45 MB used, 57.45 MB peak
+[2017.05.21-20.33.42:992][  0]LogMemory: Physical Memory: 4146.43 MB used, 6048.76 MB total
+[2017.05.21-20.33.42:992][  0]LogMemory: Virtual Memory: 373.40 MB used, 134217728.00 MB total
+[2017.05.21-20.33.43:023][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.05.21-20.33.44:372][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics Family (Feature Level 11_0)
+[2017.05.21-20.33.44:372][  0]LogD3D11RHI: Adapter has 112MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2017.05.21-20.33.44:374][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2017.05.21-20.33.44:374][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3024MB of shared system memory, 0 output[s]
+[2017.05.21-20.33.44:374][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2017.05.21-20.33.44:381][  0]LogD3D11RHI: !Direct3DDevice
+[2017.05.21-20.33.44:381][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2017.05.21-20.33.44:388][  0]LogD3D11RHI: Async texture creation enabled
+[2017.05.21-20.33.44:393][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../Users/Jacob/Documents/GitHub/FinalProject/FinalProject/Intermediate/Shaders/WorkingDirectory/4160/).
+[2017.05.21-20.33.44:394][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../Users/Jacob/Documents/GitHub/FinalProject/FinalProject/Intermediate/Shaders/tmp/F9AF3DB945EA5AA42764148DC0869989/'.
+[2017.05.21-20.33.44:394][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.05.21-20.33.46:057][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.05.21-20.33.46:064][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.05.21-20.33.46:071][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.05.21-20.33.46:081][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.05.21-20.33.46:090][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.05.21-20.33.46:097][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.05.21-20.33.46:105][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.05.21-20.33.46:111][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.05.21-20.33.46:118][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.05.21-20.33.46:127][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.05.21-20.33.46:137][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.05.21-20.33.46:143][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.05.21-20.33.46:145][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.05.21-20.33.46:165][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.05.21-20.33.46:170][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.05.21-20.33.46:176][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.05.21-20.33.46:183][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.05.21-20.33.46:183][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.05.21-20.33.46:303][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.05.21-20.33.46:365][  0]LogDerivedDataCache: Loaded boot cache 0.06s 42MB C:/Users/Jacob/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc.
+[2017.05.21-20.33.46:365][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Jacob/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc
+[2017.05.21-20.33.46:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jacob/Documents/GitHub/FinalProject/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.05.21-20.33.46:365][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.05.21-20.33.46:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jacob/Documents/GitHub/FinalProject/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.05.21-20.33.46:366][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.05.21-20.33.46:539][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.05.21-20.33.46:551][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.05.21-20.33.47:041][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.21-20.33.47:051][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2017.05.21-20.33.47:516][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.05.21-20.33.47:516][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.05.21-20.33.48:435][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.05.21-20.34.09:365][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.05.21-20.34.10:001][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2017.05.21-20.34.10:303][  0]SourceControl: Info Source control is disabled
+[2017.05.21-20.34.10:304][  0]SourceControl: Info Source control is disabled
+[2017.05.21-20.34.10:319][  0]SourceControl: Info Source control is disabled
+[2017.05.21-20.34.10:335][  0]SourceControl: Info Source control is disabled
+[2017.05.21-20.34.11:095][  0]LogLinker:Warning: Asset '../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.05.21-20.34.11:226][  0]LogObj: 28487 objects as part of root set at end of initial load.
+[2017.05.21-20.34.11:226][  0]LogUObjectAllocator: 6088824 out of 0 bytes used by permanent object pool.
+[2017.05.21-20.34.11:315][  0]LogEngine: Initializing Engine...
+[2017.05.21-20.34.11:319][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.7.0.0
+[2017.05.21-20.34.11:320][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2017.05.21-20.34.11:491][  0]LogAIModule: Creating AISystem for world NewWorld
+[2017.05.21-20.34.11:496][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.21-20.34.11:897][  0]LogInit: FAudioDevice initialized.
+[2017.05.21-20.34.11:941][  0]LogDerivedDataCache: Saved boot cache 0.04s 44MB C:/Users/Jacob/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc.
+[2017.05.21-20.34.11:951][  0]LogInit: Texture streaming: Enabled
+[2017.05.21-20.34.11:964][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2017.05.21-20.34.11:964][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.9.2-2707645+++depot+UE4-Releases+4.9
+[2017.05.21-20.34.11:964][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId 0c7004ae4fbf476c46248ea3aa897ba2|5c8a094fc4fb4ccf912a58e8b050ae6e|dd076934-77e4-46bc-8f3f-9384319b48ea
+[2017.05.21-20.34.11:964][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2017.05.21-20.34.12:041][  0]LogInit: Transaction tracking system initialized
+[2017.05.21-20.34.12:087][  0]BlueprintLog: New page: Editor Load
+[2017.05.21-20.34.13:348][  0]LocalizationService: Info Localization service is disabled
+[2017.05.21-20.34.13:872][  0]LogConsoleResponse:Display: 
+[2017.05.21-20.34.14:077][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2017.05.21-20.34.15:002][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jacob/Documents/GitHub/FinalProject/FinalProject/Content/' took 0.01s
+[2017.05.21-20.34.15:021][  0]SourceControl: Info Source control is disabled
+[2017.05.21-20.34.15:021][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jacob/Documents/GitHub/FinalProject/FinalProject/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.21-20.34.15:021][  0]LightingResults: New page: Lighting Build
+[2017.05.21-20.34.15:026][  0]MapCheck: New page: Map Check
+[2017.05.21-20.34.15:026][  0]LightingResults: New page: Lighting Build
+[2017.05.21-20.34.15:047][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001BF974B9DA0
+[2017.05.21-20.34.15:659][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.05.21-20.34.15:667][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.21-20.34.15:667][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.21-20.34.15:753][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 85.991ms to complete.
+[2017.05.21-20.34.15:754][  0]LogFileHelpers: Loading map '2DSideScrol
